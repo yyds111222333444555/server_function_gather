@@ -1,4 +1,4 @@
-# 1、server_function_gather（服务器应用集合）本项目是由Qt编写的程序，外加Android的java写的测试apk程序，本项目你会学习到：<br/>qt界面开发，<br/>sql数据库，<br/>c++的基础，<br/>Android程序编写调试，<br/>tcp通信协议等，<br/>后续会添加更多功能！！！
+# 1、server_function_gather（服务器应用集合）本项目是由Qt编写的程序，外加Android的java写的测试apk程序，本项目你会学习到：<br/>qt界面开发，<br/>sql数据库，<br/>c++类的继承，<br/>Android程序编写调试，<br/>tcp通信协议等，<br/>后续会添加更多功能！！！
 你好！读者，想详细了解本项目，请看本项目的wiki选项，谢谢！！！
 # 2、server_function_gather（服务器应用集合）项目中的demo1.0（一个跟个人信息收集软件，Windows和Android已经支持）
 想详细了解本项目，请看本项目的wiki选项，谢谢！！！
